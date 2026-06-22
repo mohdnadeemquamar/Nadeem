@@ -16,7 +16,7 @@ As a frontend developer, I am always passionate about bridging the gap between c
 
 ⚡ Find me here
 
-* LinkedIn (https://www.linkedin.com/in/nadeem-quamar1)
+* [LinkedIn] (https://www.linkedin.com/in/nadeem-quamar1)
 * Portfolio (https://www.mohdnadeemquamar.github.io)
 * Dribble (https://dribbble.com/nadeem_q1)
 
