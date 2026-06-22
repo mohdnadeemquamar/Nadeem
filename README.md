@@ -1,7 +1,7 @@
 ### Nadeem/README.md
 # 👋 Hi, I'm Nadeem!
 
-### **Frontend Developer & UI/UX Alchemist** ✨
+### **Frontend Developer & UI/UX ** ✨
 
 I don't just write code; I build digital experiences that turn casual visitors into loyal customers. By bridging the gap between pixel-perfect design and high-performance engineering, I create fast, responsive web applications that look stunning and scale effortlessly. 
 
